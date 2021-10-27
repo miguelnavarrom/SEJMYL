@@ -10818,3 +10818,11 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+/* mis estilos */
+
+#titulo {
+  font-size: 0.01em;
+  margin: 0;
+}
